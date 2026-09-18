@@ -1,0 +1,65 @@
+COMMERCIAL LEASE AGREEMENT
+(STANDARD FORM — VERSION 1.0)
+
+This Commercial Lease Agreement (the "Agreement") is entered into and made effective as of October 1, 2024 (the "Effective Date"), by and between:
+
+LANDLORD: Apex Real Estate Holdings, LLC, a Delaware limited liability company, with its principal business address at 1209 Orange Street, Wilmington, Delaware 19801 ("Landlord"), and
+TENANT: Horizon Dynamics, Inc., a Delaware corporation, with its principal business address at 500 Technology Way, Suite 400, Wilmington, Delaware 19803 ("Tenant").
+
+The Landlord and Tenant are collectively referred to herein as the "Parties," and each individually as a "Party."
+
+SECTION 1. PREMISES AND TERM
+1.1 Leased Premises. Landlord hereby leases to Tenant, and Tenant hereby leases from Landlord, approximately 4,500 rentable square feet designated as Suite 400 (the "Premises") located at 500 Technology Way, Wilmington, DE.
+1.2 Initial Term. The term of this Lease shall be for thirty-six (36) consecutive months, commencing on October 1, 2024 (the "Commencement Date") and expiring on September 30, 2027 (the "Expiration Date"), unless sooner terminated in accordance with the express provisions of this Agreement.
+
+SECTION 2. TERM RENEWAL AND EXTENSION
+2.1 Automatic Renewal. Upon the expiration of the Initial Term, this Lease shall automatically renew for successive terms of twelve (12) months each (each a "Renewal Term"), under the same terms and conditions, unless Tenant provides written notice of non-renewal to Landlord at least sixty (60) days prior to the expiration of the then-current term.
+2.2 Effect of Failure to Notify. If Tenant fails to deliver written notice of non-renewal strictly sixty (60) days prior to the Expiration Date, Tenant shall be irrevocably bound to the subsequent twelve (12) month term.
+
+SECTION 3. CONSIDERATION AND RENT PAYMENTS
+3.1 Base Rent. Tenant agrees to pay Landlord base monthly rent in the amount of Eight Thousand Five Hundred Dollars ($8,500.00) (the "Base Rent"). Base Rent shall be due and payable in advance on the first (1st) day of each calendar month via electronic funds transfer or wire.
+3.2 Grace Period and Late Penalties. If Base Rent is not received by Landlord by the fifth (5th) calendar day of the month, Tenant shall pay an immediate late charge equal to five percent (5.0%) of the overdue balance. Unpaid balances shall accrue interest at the rate of 1.5% per month until satisfied.
+3.3 Annual Escalation. On each anniversary of the Commencement Date, the Base Rent shall automatically increase by a fixed rate of five percent (5.0%) over the Base Rent payable in the immediately preceding year.
+
+SECTION 4. SECURITY DEPOSIT
+4.1 Deposit Amount. Tenant shall deposit with Landlord the sum of Seventeen Thousand Dollars ($17,000.00), representing two (2) months Base Rent, upon execution of this Agreement.
+4.2 Retention and Forfeiture. Landlord may apply the Security Deposit to remedy any default in rent or repair damages caused by Tenant. In the event of an early termination by Tenant, the entire Security Deposit shall be forfeited to Landlord as supplemental administrative compensation.
+
+SECTION 5. PERMITTED USE AND MAINTENANCE
+5.1 Permitted Use. The Premises shall be used exclusively for general executive and software development office purposes and for no other purpose without prior written authorization.
+5.2 Tenant Maintenance. Tenant shall, at its sole cost, maintain the interior non-structural portions of the Premises, including interior fixtures, partitions, lighting, and HVAC distribution components.
+
+SECTION 6. INSURANCE REQUIREMENTS
+6.1 Commercial General Liability. Tenant shall maintain throughout the term Commercial General Liability (CGL) insurance with policy limits of not less than Two Million Dollars ($2,000,000.00) per occurrence and Four Million Dollars ($4,000,000.00) general aggregate, naming Landlord as an additional insured.
+
+SECTION 7. DEFAULT AND REMEDIES
+7.1 Events of Default. An Event of Default shall occur if: (a) Tenant fails to pay any installment of Base Rent within ten (10) days after written notice; or (b) Tenant fails to observe any covenant or obligation within thirty (30) days after written notice of failure.
+7.2 Landlord Remedies. Upon an Event of Default, Landlord may terminate this Lease, re-enter and repossess the Premises, and accelerate all unpaid rent remaining through the remainder of the Initial Term.
+
+SECTION 8. EARLY TERMINATION
+8.1 Termination for Cause. Either Party may terminate this Agreement if the other Party commits a material breach and fails to cure such breach within thirty (30) days following receipt of written notice.
+8.2 Early Termination for Convenience and Liquidated Damages. Tenant shall have no right to terminate this Lease prior to the Expiration Date, except upon providing Landlord with at least sixty (60) days advance written notice and paying to Landlord, concurrently with such notice, an Early Termination Fee equivalent to three (3) months Base Rent ($25,500.00), in addition to full forfeiture of the Security Deposit.
+
+SECTION 9. INDEMNIFICATION AND HOLD HARMLESS
+9.1 Unilateral Tenant Indemnification. Tenant shall defend, indemnify, and hold harmless Landlord, its members, managers, employees, and agents from and against any and all claims, actions, damages, liabilities, losses, costs, and expenses (including reasonable attorneys' fees and legal costs) arising out of or resulting from Tenant's use, occupancy, conduct, or operations in or about the Premises, or any breach of this Agreement by Tenant, regardless of whether caused in whole or in part by the condition of the building.
+
+SECTION 10. ASSIGNMENT AND SUBLETTING
+10.1 Prohibition. Tenant shall not assign, mortgage, pledge, or sublet any portion of the Premises without Landlord's prior written consent, which consent may be withheld in Landlord's sole and absolute discretion.
+
+SECTION 11. LIMITATION OF LIABILITY
+11.1 Landlord Liability Cap. Tenant agrees that Landlord's liability under this Agreement shall be strictly limited to Landlord's equity interest in the building. In no event shall Landlord, its officers, or directors be liable for consequential, punitive, special, or indirect damages or lost profits.
+
+SECTION 12. DISPUTE RESOLUTION AND GOVERNING LAW
+12.1 Governing Law. This Agreement shall be construed and governed in accordance with the laws of the State of Delaware, without regard to principles of conflicts of law.
+12.2 Mandatory Arbitration. Any controversy or claim arising out of or relating to this Agreement shall be determined by binding arbitration administered by the American Arbitration Association (AAA) under its Commercial Arbitration Rules, held in Wilmington, Delaware.
+12.3 Waiver of Jury Trial. THE PARTIES EXPRESSLY WAIVE ANY RIGHT TO TRIAL BY JURY IN ANY PROCEEDING ARISING OUT OF THIS AGREEMENT.
+
+IN WITNESS WHEREOF, the Parties have executed this Commercial Lease Agreement as of the Effective Date.
+
+LANDLORD:
+Apex Real Estate Holdings, LLC
+By: Marcus Vance, Managing Principal
+
+TENANT:
+Horizon Dynamics, Inc.
+By: Sarah Jenkins, Chief Executive Officer

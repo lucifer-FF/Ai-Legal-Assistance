@@ -1,0 +1,64 @@
+COMMERCIAL LEASE AGREEMENT
+(AMENDED & NEGOTIATED REVISION — VERSION 2.0)
+
+This Commercial Lease Agreement (the "Agreement") is entered into and made effective as of October 1, 2024 (the "Effective Date"), by and between:
+
+LANDLORD: Apex Real Estate Holdings, LLC, a Delaware limited liability company, with its principal business address at 1209 Orange Street, Wilmington, Delaware 19801 ("Landlord"), and
+TENANT: Horizon Dynamics, Inc., a Delaware corporation, with its principal business address at 500 Technology Way, Suite 400, Wilmington, Delaware 19803 ("Tenant").
+
+The Landlord and Tenant are collectively referred to herein as the "Parties," and each individually as a "Party."
+
+SECTION 1. PREMISES AND TERM
+1.1 Leased Premises. Landlord hereby leases to Tenant, and Tenant hereby leases from Landlord, approximately 4,500 rentable square feet designated as Suite 400 (the "Premises") located at 500 Technology Way, Wilmington, DE.
+1.2 Initial Term. The term of this Lease shall be for thirty-six (36) consecutive months, commencing on October 1, 2024 (the "Commencement Date") and expiring on September 30, 2027 (the "Expiration Date"), unless sooner terminated in accordance with the express provisions of this Agreement.
+
+SECTION 2. TERM RENEWAL AND EXTENSION
+2.1 Renewal Option. Tenant shall have the option to renew this Lease for one (1) additional term of twenty-four (24) months upon providing written notice to Landlord at least sixty (60) days prior to the expiration of the Initial Term.
+2.2 Non-Renewal. If neither Party provides notice of renewal, the Lease shall terminate upon the Expiration Date without automatic multi-year renewal rollover.
+
+SECTION 3. CONSIDERATION AND RENT PAYMENTS
+3.1 Base Rent. Tenant agrees to pay Landlord base monthly rent in the amount of Eight Thousand Five Hundred Dollars ($8,500.00) (the "Base Rent"). Base Rent shall be due and payable in advance on the first (1st) day of each calendar month via electronic funds transfer or wire.
+3.2 Grace Period and Late Penalties. If Base Rent is not received by Landlord by the tenth (10th) calendar day of the month, Tenant shall pay a late charge equal to two percent (2.0%) of the overdue balance.
+3.3 CPI Escalation Cap. On each anniversary of the Commencement Date, Base Rent shall adjust based on the Consumer Price Index (CPI-U for Philadelphia-Camden-Wilmington), provided that in no event shall any annual escalation exceed three percent (3.0%).
+
+SECTION 4. SECURITY DEPOSIT
+4.1 Deposit Amount. Tenant shall deposit with Landlord the sum of Seventeen Thousand Dollars ($17,000.00), representing two (2) months Base Rent, upon execution of this Agreement.
+4.2 Return of Deposit. The Security Deposit shall be held in an escrow account and returned to Tenant within thirty (30) days following lease termination, less only documented costs for repairing tenant-caused physical damages exceeding normal wear and tear.
+
+SECTION 5. PERMITTED USE AND MAINTENANCE
+5.1 Permitted Use. The Premises shall be used for general executive, administrative, and technology development purposes.
+5.2 Shared Maintenance. Landlord shall be responsible for all exterior, structural, roof, and central building HVAC systems. Tenant shall maintain ordinary interior cleanliness and routine fixtures.
+
+SECTION 6. INSURANCE REQUIREMENTS
+6.1 Commercial General Liability. Tenant shall maintain Commercial General Liability (CGL) insurance with policy limits of One Million Dollars ($1,000,000.00) per occurrence and Two Million Dollars ($2,000,000.00) aggregate.
+
+SECTION 7. DEFAULT AND REMEDIES
+7.1 Events of Default. An Event of Default shall occur if Tenant fails to cure any monetary default within fifteen (15) days after written notice, or any non-monetary default within thirty (30) days after written notice.
+7.2 Mitigation Obligation. Upon any default, Landlord shall have an affirmative duty under Delaware law to use commercially reasonable efforts to re-let the Premises and mitigate damages.
+
+SECTION 8. EARLY TERMINATION
+8.1 Termination for Cause. Either Party may terminate this Agreement if the other Party commits a material breach and fails to cure such breach within thirty (30) days following receipt of written notice.
+8.2 Early Termination for Convenience. Tenant may terminate this Lease early upon providing Landlord with at least thirty (30) days advance written notice and paying an Early Termination Fee equivalent to one (1) month Base Rent ($8,500.00). The Security Deposit shall not be forfeited and shall be returned pursuant to Section 4.2.
+
+SECTION 9. MUTUAL INDEMNIFICATION
+9.1 Mutual Indemnification. Each Party (the "Indemnifying Party") shall defend, indemnify, and hold harmless the other Party, its officers, and employees from third-party claims, liabilities, and reasonable legal expenses arising directly from the gross negligence, willful misconduct, or material breach of this Agreement by the Indemnifying Party. Neither Party shall be required to indemnify the other for claims resulting from the other Party's own negligence or misconduct.
+
+SECTION 10. ASSIGNMENT AND SUBLETTING
+10.1 Permitted Transfers. Tenant may assign or sublet the Premises to any corporate parent, subsidiary, affiliate, or successor entity resulting from merger or acquisition without Landlord's prior consent, upon ten (10) days notice.
+
+SECTION 11. MUTUAL LIMITATION OF LIABILITY
+11.1 Consequential Damages Waiver. Neither Landlord nor Tenant shall be liable to the other for indirect, special, punitive, or consequential damages or loss of anticipated business profits.
+
+SECTION 12. DISPUTE RESOLUTION AND GOVERNING LAW
+12.1 Governing Law. This Agreement shall be construed and governed in accordance with the laws of the State of Delaware.
+12.2 Mediation and Arbitration. The Parties agree to submit any unresolved dispute first to non-binding mediation before initiating binding AAA arbitration in Wilmington, Delaware.
+
+IN WITNESS WHEREOF, the Parties have executed this amended Commercial Lease Agreement as of the Effective Date.
+
+LANDLORD:
+Apex Real Estate Holdings, LLC
+By: Marcus Vance, Managing Principal
+
+TENANT:
+Horizon Dynamics, Inc.
+By: Sarah Jenkins, Chief Executive Officer

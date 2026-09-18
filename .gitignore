@@ -1,0 +1,39 @@
+﻿# Environment variables and secrets
+.env
+.env.*
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+.venv/
+env/
+venv/
+ENV/
+
+# Database and uploads
+*.db
+*.sqlite
+*.sqlite3
+uploads/*
+!uploads/.gitkeep
+
+# Testing and caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
