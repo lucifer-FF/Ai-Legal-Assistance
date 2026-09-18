@@ -8,22 +8,13 @@
 
 > **Legal Disclaimer:** LexiGuard provides AI-generated legal information and document analysis for informational purposes only. It does not provide legal advice, establish an attorney-client relationship, or replace a qualified legal professional.
 
----
 
 ## 1. Product Vision
 
 Legal documents are complex, adversarial, and intimidating for non-lawyers. **LexiGuard** bridges this accessibility gap by transforming dense, legalese-laden contracts (commercial leases, NDAs, employment agreements, SaaS terms, vendor contracts) into accessible, grounded, and actionable intelligence.
 
 Rather than acting like a generic conversational chat wrapper, LexiGuard acts as an executive legal intelligence suite:
-- **Grounded RAG Document Q&A**: Answers user questions with strict section-and-page citations (`[Section 8.2 — Page 2]`), confidence ratings, and zero hallucinated terms.
-- **Classified Legal Risk Matrix**: Automatically categorizes findings as `HIGH`, `MEDIUM`, `LOW`, or `INFORMATIONAL` (e.g. unilateral indemnity, hidden liquidated damages, auto-renewal traps).
-- **Interactive Clause Explainer**: Translates specific provisions into plain English with practical implications and calibrated questions for counsel.
-- **Side-by-Side Contract Comparison**: Compares original and revised agreements across 10 standard categories (`UNCHANGED`, `ADDED`, `REMOVED`, `MODIFIED`) with impact notes.
-- **Actionable Verification Checklist**: Contract-grounded tasks with interactive check-offs and note taking.
-- **"Prepare for a Lawyer" Dossier**: Generates a structured consultation brief to save hundreds of dollars in billable attorney hours.
-- **Executive PDF Export**: High-fidelity ReportLab PDF export of analysis and risks.
 
----
 
 ## 2. System Architecture
 
@@ -59,7 +50,6 @@ flowchart TD
     Server --> Engine
 ```
 
----
 
 ## 3. Pre-Configured Demo Accounts
 
@@ -72,13 +62,10 @@ For evaluation during demos or reviews, the database comes pre-seeded with:
 
 *Note: Administrative accounts authenticate securely via the dedicated **Sign in as Administrator** portal (`/admin-login`). Public registration creates strictly normal `USER` accounts.*
 
----
 
 ## 4. Quick Start & Database Migrations
 
 ### Prerequisites
-- Python 3.10+
-- Node.js 18+ and npm
 
 ### Backend Setup & Database Migrations
 ```bash
@@ -112,23 +99,18 @@ The backend API is now running at `http://127.0.0.1:8000` (Interactive Swagger d
 ### Managing Database Migrations
 Developers must use Alembic rather than `Base.metadata.create_all()` for database schema evolution:
 
-- **Create a new migration**:
   ```bash
   python -m alembic revision --autogenerate -m "describe change"
   ```
-- **Apply pending migrations**:
   ```bash
   python -m alembic upgrade head
   ```
-- **Check current revision**:
   ```bash
   python -m alembic current
   ```
-- **View migration history**:
   ```bash
   python -m alembic history
   ```
-- **Rollback last migration**:
   ```bash
   python -m alembic downgrade -1
   ```
@@ -145,7 +127,6 @@ npm install
 npm run dev
 ```
 The frontend is now running at `http://localhost:5173`.
-
 ---
 
 ## 5. Verification & Testing
@@ -164,7 +145,6 @@ cd frontend
 npm run build
 ```
 **Build Results: Verified clean build (zero TypeScript errors).**
-
 ---
 
 ## 6. Hackathon Demo Walkthrough (5-Minute Tour)
@@ -184,18 +164,10 @@ npm run build
    - **Prepare for Lawyer**: View the structured consultation dossier and click **Export Legal PDF Report** to download the report.
 6. **Side-by-Side Comparison**: Click **Compare**, select Lease V1 and Lease V2, and inspect the categorized clause diffs (`MODIFIED`, `ADDED`, `REMOVED`, `UNCHANGED`).
 7. **Admin Console**: Sign in as `admin@lexiguard.com` to view system telemetry, document throughput charts, registered users, and tamper-evident audit logs.
-
 ---
 
 ## 7. Security & AI Safety Controls
-
-- **Zero Hallucination Policy**: RAG queries are restricted to retrieved document context. When information is absent, the system explicitly states: *"I couldn't find this information in the uploaded document."*
-- **Calibrated Uncertainty**: The system avoids definitive legal pronouncements and advises consulting licensed counsel.
-- **Tenant Isolation**: Users can only access documents they own; admins have audit oversight.
-- **Authentication**: Native bcrypt password hashing and tamper-resistant HS256 JWT tokens.
-- **File Validation**: Strict file type whitelisting (`.pdf`, `.docx`, `.txt`) and 20MB file size limit.
 - **Credential Protection**: No secrets committed; API keys managed via environment variables.
-
 ---
 
 ## 8. License
