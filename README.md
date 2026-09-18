@@ -58,7 +58,7 @@ For evaluation during demos or reviews, the database comes pre-seeded with:
 | Role | Email | Password | Permissions |
 |---|---|---|---|
 | **Demo User** | `user@lexiguard.com` | `UserPass123!` | Upload, analyze, chat, compare, export |
-| **System Admin** | `admin@lexiguard.com` | `AdminPass123!` | Global statistics, user oversight, audit logs |
+
 
 *Note: Administrative accounts authenticate securely via the dedicated **Sign in as Administrator** portal (`/admin-login`). Public registration creates strictly normal `USER` accounts.*
 
